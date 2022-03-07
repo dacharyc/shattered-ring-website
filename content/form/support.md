@@ -1,7 +1,7 @@
 ---
 title: Support
 name: Support Request Form
-description: "Need help with the Shattered Ring app? Drop me an email. I'm an indie dev with a full-time job, but I'll get    
+description: "Need help with the Shattered Ring app? Drop me an email. I'm an indie dev by night with a full-time job by day, but I'll get    
     back to you as soon as I can!"
 date: 2019-02-25T13:38:41-06:00
 draft: false
