@@ -6,8 +6,8 @@ avatar_shape: rounded # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 link_list_label: "Links" # bookmarks, elsewhere, etc.
 link_list:
-- name: App Store (Coming Soon!)
-  url: https://www.apple.com/app-store/
+- name: View on the App Store
+  url: https://apps.apple.com/app/shattered-ring/id1613271666
 - name: Elden Ring
   url: https://en.bandainamcoent.eu/elden-ring/elden-ring
 - name: Me - Dachary Carey

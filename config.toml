@@ -122,10 +122,15 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
+    name = "Buy on the App Store"
+    title = "Buy on the App Store"
+    url = "https://apps.apple.com/app/shattered-ring/id1613271666"
+    weight = 1
+  [[menu.header]]
     name = "About"
     title = "About Shattered Ring"
     url = "/about/"
-    weight = 1
+    weight = 2
   # [[menu.header]]
   #   name = "Support"
   #   title = "Support form"
