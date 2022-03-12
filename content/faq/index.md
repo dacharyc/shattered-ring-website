@@ -15,7 +15,7 @@ layout: single
 
 ## Is there an Android version of Shattered Ring?
 
-Shattered Ring is a fan-developed app written by someone who only knows iOS development.
+Shattered Ring is a fan-developed app written by an indie iOS developer.
 However, I've been pleasantly surprised by how many folks are interested in using
 Shattered Ring, so I'm currently talking with an Android developer about possibly
 bringing it to Android. Follow [Shattered Ring on Twitter](https://twitter.com/shattered_ring) 
@@ -25,16 +25,20 @@ for updates, or check back!
 
 Shattered Ring is designed to be a spoiler-free tracking app that lets users
 manually enter NPCs, Locations, and Quests as they encounter them. It doesn't
-come pre-populated with a checklist of entries by design. However, if there is 
-enough demand for a feature like this, it's potentially something I could add. 
-If this is something you'd like to see, send me an email or vote for it when
-I put up a Twitter poll to prioritize feature requests.
+come pre-populated with a checklist of entries by design. In addition to being
+a choice to keep the app spoiler-free, it's also not pre-populated because some
+folks might also use it as a D&D or other TTRPG tracker, so having preset data
+wouldn't make sense for other games.
+
+However, if there is enough demand for a feature like this, it's potentially 
+something I could add. If this is something you'd like to see, send me an 
+email or vote for it when I put up a Twitter poll to prioritize feature requests.
 
 ## Does the app update automatically based on game progress?
 
 That would be really cool! But unfortunately, there are no publicly-available
 APIs that would let me get updates from your gameplay. This level of integration
-is something that FromSoftware would need to provide.
+is something that [FromSoftware](https://www.fromsoftware.jp/) would need to provide.
 
 ## I'd like to see a feature - how can I request it?
 
@@ -62,6 +66,6 @@ have and hope to start shipping new features shortly!
 
 ## The app doesn't do what I want - how do I get a refund?
 
-If Shattered Ring doesn't work the way you expect, you can request a
+If you're not happy with Shattered Ring, you can request a
 refund from Apple. See Apple Support for more details: 
 [Request a refund for apps or content that you bought from Apple](https://support.apple.com/en-us/HT204084)
