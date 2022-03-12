@@ -131,11 +131,11 @@ enableEmoji = true
     title = "About Shattered Ring"
     url = "/about/"
     weight = 2
-  # [[menu.header]]
-  #   name = "Support"
-  #   title = "Support form"
-  #   url = "/support/"
-  #   weight = 2
+  [[menu.header]]
+    name = "FAQ"
+    title = "FAQ"
+    url = "/faq/"
+    weight = 3
 #   [[menu.header]]
 #     name = "Projects"
 #     title = "Project Portfolio"
