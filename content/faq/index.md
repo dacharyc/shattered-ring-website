@@ -51,14 +51,18 @@ or send us an email via [the Support form](/contact/) to request a feature.
 When I have time to add new features to the app, I'll put up a Twitter
 poll to help me prioritize which features to add first.
 
-Currently, features that have been requested include (updated March 12, 2022):
+Currently, features that have been requested include (updated March 13, 2022):
 
 - Preload NPC, Location and Quests data for users to check off
 - Support for adding photos to NPCs, Locations and Quests
 - Add ordering for lists (alphabetical, and/or potentially the ability to move items in lists manually)
-- Add ability to to edit names of NPCs, Locations, and Quests
 - Link characters/locations/quests to their respective Wiki entries
-- Add Bosses to the app
+- Add the ability to track Bosses to the app
+- Add the ability to track Regions, with Locations belonging to a Region
+- Translate the Shattered Ring app to other languages
+
+Feature Requests Completed:
+- Add ability to to edit names of NPCs, Locations, and Quests: Release 1.1.0 adds the ability to edit names
 
 I do intend to keep developing Shattered Ring as long as folks are interested
 in using it, so I'm happy to hear any feature requests you might
