@@ -16,9 +16,9 @@ layout: single
 ## Is there an Android version of Shattered Ring?
 
 Shattered Ring is a fan-developed app written by an indie iOS developer.
-However, I've been pleasantly surprised by how many folks are interested in using
-Shattered Ring, so I'm currently talking with an Android developer about possibly
-bringing it to Android. Follow [Shattered Ring on Twitter](https://twitter.com/shattered_ring) 
+However, so many folks have asked for an Android version that I've partnered
+with an Android developer to bring you one. Coming soon! Follow 
+[Shattered Ring on Twitter](https://twitter.com/shattered_ring) 
 for updates, or check back!
 
 ## Does the app come pre-loaded with Elden Ring NPCs, Locations, and Quests?
