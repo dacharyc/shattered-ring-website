@@ -51,18 +51,21 @@ or send us an email via [the Support form](/contact/) to request a feature.
 When I have time to add new features to the app, I'll put up a Twitter
 poll to help me prioritize which features to add first.
 
-Currently, features that have been requested include (updated March 13, 2022):
+Currently, features that have been requested include (updated March 17, 2022):
 
 - Preload NPC, Location and Quests data for users to check off
 - Support for adding photos to NPCs, Locations and Quests
-- Add ordering for lists (alphabetical, and/or potentially the ability to move items in lists manually)
 - Link characters/locations/quests to their respective Wiki entries
-- Add the ability to track Bosses to the app
 - Add the ability to track Regions, with Locations belonging to a Region
-- Translate the Shattered Ring app to other languages
+- Translate the Shattered Ring app to other languages (so far I've had requests for Italian and French)
+- Add the ability to track Items, possibly with types like Weapon, Consumable, Key Item, Equipment, Spell, etc. Link them to locations and/or NPC merchants.
+- When adding a merchant, have a separate section for the merchant's inventory versus general notes.
+- Add types to locations, such as caves, forts, etc. in the location section
 
 Feature Requests Completed:
 - Add ability to to edit names of NPCs, Locations, and Quests: Release 1.1.0 adds the ability to edit names
+- Add ordering for lists (alphabetical, and/or potentially the ability to move items in lists manually): Release 1.2.0 adds the ability to sort lists alphabetically using the Sort toggle in the menu bar, or you can use the Edit button to manually drag items around in the list. Sort and Edit are mutually exclusive, so if you have the Sort toggle enabled, you won't see the Edit button - untoggle Sort if you want to drag an important item to the top of the list.
+- Add the ability to track Bosses to the app: Release 1.2.0 adds Bosses to the app; you can now create them, view them at locations, add notes to them, and track the ones you've defeated. The Game list now shows defeated vs. undefeated boss counts.
 
 I do intend to keep developing Shattered Ring as long as folks are interested
 in using it, so I'm happy to hear any feature requests you might
