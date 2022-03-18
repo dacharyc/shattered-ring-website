@@ -1,7 +1,7 @@
 ---
 title: "Shattered Ring"
 subtitle: "Track important info about your favorite RPGs"
-description: "Shattered Ring is the task tracker you didn't know you needed for Elden Ring. The Shattered Ring app is an RPG tracker to help you track notes for and the status of important NPCs, locations, and quests. Currently available for iOS, coming soon for Android."
+description: "Shattered Ring is the task tracker you didn't know you needed for Elden Ring. The Shattered Ring app is an RPG tracker to help you track notes for and the status of important NPCs, locations, quests, and bosses. Currently available for iOS, coming soon for Android."
 images:
   - img/cover-image-NPC-list-view.png
 image_left: false

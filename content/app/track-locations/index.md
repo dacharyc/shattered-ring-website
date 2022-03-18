@@ -22,6 +22,7 @@ Track important locations, including details like:
 - Amenities the location has, such as a merchant, blacksmith, or smith anvil
 - Notes
 - NPCs at the location
+- A Boss at the location
 
 ## View Locations at-a-glance in the Locations list
 
@@ -63,6 +64,8 @@ Below that, you'll see location notes, if you've added any. You can edit notes f
 You can view NPCs that are at the location, or add new NPCs when NPCs move around. You can click
 into an NPC at a location to view all of their details, such as notes or quests the NPC has given you. For more details, see: [NPCs](/app/track-npcs/).
 
+You can view a boss at the location, or add a new boss from the location view. You can click into a boss at a location to view notes you've saved about the boss, or to mark it defeated. For more details, see: [Bosses](/app/track-bosses/).
+
 ## Easily enter new Locations
 
 ![Screenshot of form to create a new Location called Siofra River on Shattered Ring app, iPhone](new-location-siofra-light-mode-simulator.png)
@@ -74,6 +77,6 @@ From the Location list, click the plus icon in the upper-right corner of the scr
 
 In the new location form, you can add as little as a name, flip a couple of toggles if the location is cleared, has a smith anvil, or has a merchant, and hit the `Create Location` button. You can also add notes when you create the location, or you can go back later and add them when viewing location details.
 
-After you create the location, you can go to the location's detail view to add NPCs.
+After you create the location, you can go to the location's detail view to add NPCs amnd bosses.
 
-If you create the location from the NPC view, the location is automatically populated with the NPC whose view you created the location from.
+If you create the location from the NPC or boss view, the location is automatically populated with the NPC or boss whose view you created the location from.

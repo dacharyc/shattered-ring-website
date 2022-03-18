@@ -25,4 +25,5 @@ like your regular D&D game, you can add new games to track them.
 The Games view gives you a nice roundup of stats from each playthrough.
 Completionists can appreciate clearing all of the locations or completing
 all of the quests in a game. And who wouldn't enjoy claiming bragging 
-rights over your friends about meeting more NPCs or clearing more locations?
+rights over your friends about meeting more NPCs, clearing more locations,
+or defeating more bosses?
