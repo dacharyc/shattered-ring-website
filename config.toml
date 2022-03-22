@@ -122,24 +122,25 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "Buy on the App Store"
-    title = "Buy on the App Store"
-    url = "https://apps.apple.com/app/shattered-ring/id1613271666"
+    name = "Android"
+    title = "Android on Google Play Store"
+    url = "https://play.google.com/store/apps/details?id=com.shattered_ring"
     weight = 1
+  [[menu.header]]
+    name = "iOS"
+    title = "iOS on the App Store"
+    url = "https://apps.apple.com/app/shattered-ring/id1613271666"
+    weight = 2
   [[menu.header]]
     name = "About"
     title = "About Shattered Ring"
     url = "/about/"
-    weight = 2
+    weight = 3
   [[menu.header]]
     name = "FAQ"
     title = "FAQ"
     url = "/faq/"
-    weight = 3
-#   [[menu.header]]
-#     name = "Projects"
-#     title = "Project Portfolio"
-#     url = "/project/"
+    weight = 4
 #     weight = 3
 #   [[menu.header]]
 #     name = "Talks"
