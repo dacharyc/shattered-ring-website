@@ -13,18 +13,10 @@ draft: false
 layout: single
 ---
 
-## Is there an Android version of Shattered Ring?
-
-Shattered Ring is a fan-developed app written by an indie iOS developer.
-However, so many folks have asked for an Android version that I've partnered
-with an Android developer to bring you one. Coming soon! Follow 
-[Shattered Ring on Twitter](https://twitter.com/shattered_ring) 
-for updates, or check back!
-
-## Does the app come pre-loaded with Elden Ring NPCs, Locations, and Quests?
+## Does the app come pre-loaded with Elden Ring NPCs, Locations, Quests, and Bosses?
 
 Shattered Ring is designed to be a spoiler-free tracking app that lets users
-manually enter NPCs, Locations, and Quests as they encounter them. It doesn't
+manually enter NPCs, Locations, Quests and Bosses as they encounter them. It doesn't
 come pre-populated with a checklist of entries by design. In addition to being
 a choice to keep the app spoiler-free, it's also not pre-populated because some
 folks might also use it as a D&D or other TTRPG tracker, so having preset data
@@ -57,7 +49,7 @@ Currently, features that have been requested include (updated March 17, 2022):
 - Support for adding photos to NPCs, Locations and Quests
 - Link characters/locations/quests to their respective Wiki entries
 - Add the ability to track Regions, with Locations belonging to a Region
-- Translate the Shattered Ring app to other languages (so far I've had requests for Italian and French)
+- Translate the Shattered Ring app to other languages (so far I've had requests for Italian, French, and German)
 - Add the ability to track Items, possibly with types like Weapon, Consumable, Key Item, Equipment, Spell, etc. Link them to locations and/or NPC merchants.
 - When adding a merchant, have a separate section for the merchant's inventory versus general notes.
 - Add types to locations, such as caves, forts, etc. in the location section
@@ -71,8 +63,11 @@ I do intend to keep developing Shattered Ring as long as folks are interested
 in using it, so I'm happy to hear any feature requests you might
 have and hope to start shipping new features shortly!
 
-## The app doesn't do what I want - how do I get a refund?
+## Why do the Android and iOS versions of Shattered Ring not have the same features?
 
-If you're not happy with Shattered Ring, you can request a
-refund from Apple. See Apple Support for more details: 
-[Request a refund for apps or content that you bought from Apple](https://support.apple.com/en-us/HT204084)
+Shattered Ring is a fan-developed app written by an indie iOS developer.
+However, so many folks asked for an Android version that I've partnered
+with an Android developer to bring you one. We're both working on these
+apps as side projects in our free time, and may not have exactly the
+same feature set at all times. The details on this site are for the iOS
+version.
