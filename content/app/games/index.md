@@ -2,7 +2,7 @@
 title: "Track Multiple Games"
 subtitle: "Track Multiple Games or Playthroughs in your favorite RPGs"
 excerpt: "Track multiple Elden Ring playthroughs, or a mix of RPG games."
-date: 2022-03-03
+date: 2022-03-02
 author: "Dachary Carey"
 draft: false
 # tags:
