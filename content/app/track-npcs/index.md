@@ -2,7 +2,7 @@
 title: "Track NPCs in your favorite RPGs"
 subtitle: "Details on tracking NPCs with the Shattered Ring app."
 excerpt: "Find out how you can use the Shattered Ring iOS App to track NPCs in your favorite
-RPGs."
+RPGs. Save notes, images, and links for NPCs, and link them to locations and the quests they give."
 date: 2022-03-06
 author: "Dachary Carey"
 draft: false
@@ -48,17 +48,46 @@ If you jot down that note, you'll be able to find your NPC again!
 
 ![Screenshot of NPC details for Kale on Shattered Ring app, iPhone](npc-detail-kale-light-mode-simulator.png)
 
-The NPC view provides details about your important NPCs. This is where you go to view NPC notes,
-if you've added any. You can edit notes from here, and the note area is a scrollable field, so there's
-no end to how much text you can have in the notes for each NPC.
+The NPC view provides details about your important non-player characters. 
+
+The top part of the NPC view contains a clickable toggle to note whether the NPC is a merchant.
+You can use this in the NPC list to filter on NPCs that are merchants.
+
+Below that, you'll see a tabbed view where you can drill deeper into NPC details:
+
+- Notes
+- Locations
+- Quests
+- Images
+- Links
+
+### Notes
+
+When you open the NPC view, the first thing you'll see is NPC notes. You can edit notes from here, and the note area is a scrollable field, so there's no end to how much text you can have in the notes for each NPC. Keep track of important bits of dialogue, or note down items that the NPC sells. Remember that you can search the contents of notes from the NPC list view, so if you can't remember which NPC sells the item you're looking for, jot it down for the notes and then search for it later in the NPC list!
+
+### Locations
 
 You can view the location of an NPC, or add new locations to the NPC if the NPC moves around. 
 The location list shows you amenities that are at the location, and whether or not you've
 cleared a location. For more details, see: [Locations](/app/track-locations/).
 
+### Quests
+
 You can also view the quests that the NPC has given you, or add new quests as the game progresses.
 The quest list shows a green checkbox for quests you have completed. For more details, see: 
 [Quests](/app/track-quests/).
+
+### Images
+
+You can store images for the NPC. Grab a screenshot of the NPC's inventory if you don't
+want to type it all out in the notes, or just a screenshot to help you remember what they look like
+so you can more easily find the NPC again. You can also grab a screenshot of the map to help you
+remember where to find an NPC. 
+
+### Links
+
+Save links to your favorite websites that give you the information you want about your NPCs. Is there a great walkthroughs for NPC quests? Save a link to it. Do you want to reference lore about the NPC?
+Add a link to the NPC's wiki. When you click a link, it opens the page in a browser on your iOS device.
 
 ## Easily enter new NPCs
 

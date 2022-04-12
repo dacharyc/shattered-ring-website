@@ -10,7 +10,7 @@ intro: |
 
   I wanted an iPhone app that would allow me to easily track NPCs, Locations, and Quests. I couldn't find one on the App Store, so I wrote one, modeled after a task tracker app. I designed it to be easy to enter, find, and update info about RPG games. It works great as a campaign tracker for D&D and other TTRPGs, too!
 
-  As folks have started using the app, they've been requesting new features. Boss tracking is one of them, and I'm working on rolling out more fan-requested features. See the [FAQ](/faq/) for a list
+  As folks have started using the app, they've been requesting new features. Boss tracking, adding images to entries, and adding links to entries are all fan-requested features. See the [FAQ](/faq/) for a list
   of current feature requests, and [follow Shattered Ring on Twitter](https://twitter.com/shattered_ring) to vote for the features you want to see in the app or find out what's coming in new releases.
 show_outro: true
 outro: |
