@@ -43,7 +43,7 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/apple-touch-icon.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "shattered_ring"
+  # twitter = "shattered_ring"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -97,10 +97,10 @@ enableEmoji = true
 #       icon      = "instagram" # icon name without the 'fa-'
 #       icon_pack = "fab"
 #       url       = "https://www.instagram.com/explore/tags/apero/"
-  [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/shattered_ring"
+#  [[params.social]]
+#      icon      = "twitter" # icon name without the 'fa-'
+#      icon_pack = "fab"
+#      url       = "https://twitter.com/shattered_ring"
 #   [[params.social]]
 #       icon      = "impactstory" # icon name without the 'fa-'
 #       icon_pack = "ai"
