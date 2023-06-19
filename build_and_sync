@@ -1,3 +1,4 @@
 #!/bin/sh
 ​
+hugo
 rsync -avz public/ prfocus.app:shatteredring.com/
