@@ -11,7 +11,7 @@ intro: |
   I wanted an iPhone app that would allow me to easily track NPCs, Locations, and Quests. I couldn't find one on the App Store, so I wrote one, modeled after a task tracker app. I designed it to be easy to enter, find, and update info about RPG games. It works great as a campaign tracker for D&D and other TTRPGs, too!
 
   As folks have started using the app, they've been requesting new features. Boss tracking, adding images to entries, and adding links to entries are all fan-requested features. See the [FAQ](/faq/) for a list
-  of current feature requests, and [follow Shattered Ring on Mastodon](https://corporaterunaways.social/@shattered_ring) to vote for the features you want to see in the app or find out what's coming in new releases.
+  of current feature requests.
 show_outro: true
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>The Shattered Ring app is powered by SwiftUI and [MongoDB Realm](https://www.mongodb.com/realm).
