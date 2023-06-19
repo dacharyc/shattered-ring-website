@@ -1,0 +1,3 @@
+#!/bin/sh
+​
+rsync -avz public/ prfocus.app:shatteredring.com/
